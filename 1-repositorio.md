@@ -21,3 +21,13 @@ Alguns comandos úteis
 - git status (Verifica se o arquivo atual do repositório **_Unmodified, modified, Stage_**)
 - git push (Empurrar o arquivo diretório local para o servidor)
 - git pull (Puxar o arquivo do servidor para a sua maquina)
+
+
+
+Para comutar depois do site seguir esse passo a passo :arrow_down_small:
+
+$ git push origin1 master
+
+$ git add *
+
+$ git commit -m "Segunda modificação"
