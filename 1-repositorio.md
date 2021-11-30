@@ -1,17 +1,19 @@
-### Passo a passo para a criação, atualização e sincronização de um repositório no Github! :man_factory_worker:
+## PASSO A PASSO PARA A CRIAÇÃO, ATUALIZAÇÃO E SINCRONIZAÇÃO DE UM REPOSITÓRIO NO GITHUB!
+
+
 
 - Criar repositório na opção do perfil no site do Github!
 - Ir para a pasta do arquivo usando o comando cd + nome do arquivo
 - Copia o código do SSL
-- No Git Bash digita remote add origin #e o ssl que foi copiado
-- Para modificações na commit é necessário digitar git commit -m "E as informações da modificação entre aspas duplas"
+- Em Git Bash digita remote add origin #e o ssl que foi copiado
+- Para modificações a #commit é necessário digitar git commit -m "E as informações da modificação entre aspas duplas"
 - Para comutar as modificações é necessário utilizar o comando git add *
 
 
 
 
 
-Alguns comandos úteis 
+## ALGUNS COMANDOS ÚTEIS 
 
 
 
@@ -24,7 +26,9 @@ Alguns comandos úteis
 
 
 
-Para comutar depois do site seguir esse passo a passo :arrow_down_small:
+## PARA COMUTAR NO GITHUB SEGUIR O PASSO A PASSO NO GIT :arrow_down_small:
+
+
 
 $ git push origin1 master
 
