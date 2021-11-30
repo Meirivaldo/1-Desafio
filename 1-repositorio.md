@@ -6,7 +6,7 @@
 - Ir para a pasta do arquivo usando o comando cd + nome do arquivo
 - Copia o código do SSL
 - Em Git Bash digita remote add origin #e o ssl que foi copiado
-- Para modificações a #commit é necessário digitar git commit -m "E as informações da modificação entre aspas duplas"
+- Para modificações da #commit é necessário digitar git commit -m "E as informações da modificação entre aspas duplas"
 - Para comutar as modificações é necessário utilizar o comando git add *
 
 
